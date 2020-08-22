@@ -32,7 +32,7 @@ OR Country = "Brazil";
    Country
    )
 -- Update Bilbo Baggins record so that the postal code changes to "11122"
-VALUES (
+VALUES ( "92",
    "The Shire",
    "Bilbo Baggins",
    "1 Hobbit-Hole",
