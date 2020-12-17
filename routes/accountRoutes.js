@@ -24,7 +24,7 @@ router.get("/:id", async (req, res, next) => {
         next(err)
     }
 })
-// Create new account
+// Create new account and test 
 router.post("/new", async (req, res, next) => {
     try {
         const id = await db
